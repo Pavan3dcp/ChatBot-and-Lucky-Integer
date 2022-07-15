@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.page{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 400px;
+  margin: 20px auto;
+}
+
+.chat_bot_container{
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+}
+
+.chat_bot{
+  margin: 20px;
+}
+
+.lucky_integer_container{
+  display: flex;
+  flex-direction: column;
+}
+
+.integer_user_button{
+  margin: 10px;
+}
+
+.integer_user_input{
+  margin: 10px;
+}
+
+.chatBot_cap{
+  margin: 10px;
+}
+
+.lucky_integer_msg{
+  margin: 10px;
+}
+
+.user_button{
+  margin: 10px;
+}
